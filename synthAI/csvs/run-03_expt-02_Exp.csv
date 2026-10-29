@@ -1,0 +1,7 @@
+"Number of insertions of Canary","Exposure vs Number of insertions of Canary - Exposure","Exposure vs Number of insertions of Canary - Exposure__MIN","Exposure vs Number of insertions of Canary - Exposure__MAX","Exposure vs Number of insertions of Canary - _step","Exposure vs Number of insertions of Canary - _step__MIN","Exposure vs Number of insertions of Canary - _step__MAX"
+"1","1.11685","1.11685","1.11685","0","0","0"
+"2","2.0145","2.0145","2.0145","1","1","1"
+"4","1.18377","1.18377","1.18377","2","2","2"
+"8","3.09542","3.09542","3.09542","3","3","3"
+"16","6.31043","6.31043","6.31043","4","4","4"
+"32","8.00231","8.00231","8.00231","5","5","5"
