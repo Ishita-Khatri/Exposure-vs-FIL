@@ -2,4 +2,4 @@
 
   
   We investigate the empirical relationship between two metrics for quantifying memorization in generative sequence models: Exposure, an empirically successful metric that is widely used in practice and Fisher Information Leakage, a quantity with strong theoretical underpinnings but not tested in the text domain. We conduct a series of experiments to examine how the two measures of memorization compare in terms of their evolution during training, repeated exposure to secret information, and the effect of differential privacy. Although the two metrics align on broad patterns, their differences highlight the need for careful interpretation when using memorization metrics to evaluate privacy risks and to validate trustworthy synthetic data pipelines.
-[DDP_Final Eval Poster3.pdf](https://github.com/user-attachments/files/34267987/DDP_Final.Eval.Poster3.pdf)
+[DDP_Final Eval Poster3.pdf](https://github.com/user-attachments/files/34267987/DDP_Final.Eval.Poster3.pdf?raw=true)
